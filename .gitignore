@@ -220,3 +220,7 @@ rsconnect/
 *.tiff
 *.tif
 *.parquet
+*.tsv
+*.npz
+*.fasta
+
